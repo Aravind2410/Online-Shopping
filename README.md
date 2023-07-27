@@ -2,9 +2,13 @@
 This is a README file for an Online Shopping project implemented in the C programming language. The project aims to provide a basic platform for users to browse, select, and purchase products online. It's a console-based application that runs in the terminal, allowing users to interact with the system using simple text-based commands.
 
 **Table of Contents**
+
 Introduction
+
 Requirements
+
 Usage
+
 Contributing
 
 **Introduction**
